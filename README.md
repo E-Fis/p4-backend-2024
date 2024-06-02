@@ -6,13 +6,5 @@ Al usar Prisma, es quizás buena idea explorar proveedores de Prisma que no sean
 
 ## Entregable
 
-Como anteriormente, para hacer esta práctica hay que:
-- Hacer un _fork_ de este repositorio.
-- Trabajar en el _fork_ haciendo commits regularmente (una práctica que aparece entera en un solo commit tendrá una nota muy baja o cero, hay que mostrar todo el proceso intermedio).
-- Al finalizar, se debe crear un `ZIP` del repositorio (que incluya el fichero `.env`!) y entregarlo en el [Campus Online de UPC School](https://talent.upc.edu) (habrá una tarea preparada para ello).
-
-El entregable es el código del proyecto, incluyendo:
-- `docker-compose.yml` si la base de datos corre bajo Docker.
-- El código completo del servidor.
-- Un fichero exportado de [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) con la lista de _endpoints_ que se han probado. (Esto es **extremadamente** relevante porque la corrección del backend, de no tener este fichero, es un trabajo muchísimo más tedioso!).
-- Si se necesitan credenciales para acceder a servicios de cloud (o incluso localmente), es importante incluir en el ZIP del campus el fichero `.env` con éstas. Es muy importante no subir ese fichero en GitHub (es decir, incluirlo en `.gitignore`).
+- La practica se ha hecho con js por un error con el bun.
+- No ha sido posible extrar o exportar las actividades del Thunder Client.
